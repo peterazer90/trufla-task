@@ -1,0 +1,1 @@
+export const CouponFilter = (arr, value) => arr.filter(item => item.promotion.active && item.promotion.code === Number(value))

@@ -1,0 +1,7 @@
+html, body, main, #root {
+    height: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
