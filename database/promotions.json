@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "5eee1a4099d73814500f09a0"
+  },
+  "code": 2244,
+  "active": true,
+  "discount": 20,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eee1a5328b9a33788cffdd2"
+  },
+  "code": 2255,
+  "active": false,
+  "discount": 30,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eee1a68f05ad431ac70223e"
+  },
+  "code": 2266,
+  "active": true,
+  "discount": 40,
+  "__v": 0
+}]

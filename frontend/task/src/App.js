@@ -1,12 +1,9 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Main from "./templates/Main";
 
 function App() {
-    return (
-        <Main/>
-    );
+    return (<Main/>);
 }
 
 export default App;

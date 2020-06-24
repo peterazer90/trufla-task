@@ -1,0 +1,177 @@
+[{
+  "_id": {
+    "$oid": "5eee2414b548890168f295d1"
+  },
+  "product_id": {
+    "$oid": "5eeb98b24f1961108015026f"
+  },
+  "promotion_id": {
+    "$oid": "5eee1a4099d73814500f09a0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef0a4345eec39045c3f5878"
+  },
+  "product_id": {
+    "$oid": "5eeb994c38edff25d0c93beb"
+  },
+  "promotion_id": {
+    "$oid": "5eee1a4099d73814500f09a0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef0a46c8e1e942f5c4f3882"
+  },
+  "product_id": {
+    "$oid": "5eee0baa14a8df3cc4d038cd"
+  },
+  "promotion_id": {
+    "$oid": "5eee1a4099d73814500f09a0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef0a483c0ec7e49540e7f36"
+  },
+  "product_id": {
+    "$oid": "5eee0bc2ba149f2bc083f69a"
+  },
+  "promotion_id": {
+    "$oid": "5eee1a4099d73814500f09a0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef0a49c07a8231facf1b1c9"
+  },
+  "product_id": {
+    "$oid": "5eee0d00672fd04c9078a7a2"
+  },
+  "promotion_id": {
+    "$oid": "5eee1a4099d73814500f09a0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef0a4aff12a963bd0b44e81"
+  },
+  "product_id": {
+    "$oid": "5eee0d179db69930e8ea3d15"
+  },
+  "promotion_id": {
+    "$oid": "5eee1a4099d73814500f09a0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef0a5a87ad5a714407468d6"
+  },
+  "product_id": {
+    "$oid": "5eeb997a55866b11b44e05dd"
+  },
+  "promotion_id": {
+    "$oid": "5eee1a5328b9a33788cffdd2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef0a5baa0f2724ff44e516a"
+  },
+  "product_id": {
+    "$oid": "5eeb999db042794d08cad37a"
+  },
+  "promotion_id": {
+    "$oid": "5eee1a5328b9a33788cffdd2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef0a5dc08599627b0dc3ba0"
+  },
+  "product_id": {
+    "$oid": "5eee0c0e3a4c4f211c878e06"
+  },
+  "promotion_id": {
+    "$oid": "5eee1a5328b9a33788cffdd2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef0a5ebd3875505c0ce9743"
+  },
+  "product_id": {
+    "$oid": "5eee0c251392884fd8469651"
+  },
+  "promotion_id": {
+    "$oid": "5eee1a5328b9a33788cffdd2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef0a63be21c6b2ce46e2257"
+  },
+  "product_id": {
+    "$oid": "5eee0d2ee50afe0a60016dd2"
+  },
+  "promotion_id": {
+    "$oid": "5eee1a5328b9a33788cffdd2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef0a645a4efc0233c66f7b0"
+  },
+  "product_id": {
+    "$oid": "5eee0d46eb4d42324c51269a"
+  },
+  "promotion_id": {
+    "$oid": "5eee1a5328b9a33788cffdd2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef0a67f8a36e028b800152d"
+  },
+  "product_id": {
+    "$oid": "5eee0d78098e1a4a644ea2ac"
+  },
+  "promotion_id": {
+    "$oid": "5eee1a68f05ad431ac70223e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef0a68c7c61e8335cff2992"
+  },
+  "product_id": {
+    "$oid": "5eee0d591b2d2426840d5936"
+  },
+  "promotion_id": {
+    "$oid": "5eee1a68f05ad431ac70223e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef0a6a0012edc2ab8fcd478"
+  },
+  "product_id": {
+    "$oid": "5eeb99ba08875e39a0ddbae4"
+  },
+  "promotion_id": {
+    "$oid": "5eee1a68f05ad431ac70223e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef0a6abec28bd2f4c508a72"
+  },
+  "product_id": {
+    "$oid": "5eeb99d6c3abb7248456745a"
+  },
+  "promotion_id": {
+    "$oid": "5eee1a68f05ad431ac70223e"
+  },
+  "__v": 0
+}]

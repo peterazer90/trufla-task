@@ -1,0 +1,181 @@
+[{
+  "_id": {
+    "$oid": "5eeb98b24f1961108015026f"
+  },
+  "name": "Samsung 32 Inch HD Smart TV with Built-in Receiver - Black, UA32N5300ASXEG",
+  "price": 200,
+  "department_id": {
+    "$oid": "5eeb7d3a8802d30a8cb6225b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eeb994c38edff25d0c93beb"
+  },
+  "name": "Fresh 32LH621 32 Inch HD LED TV with Two Remote Controls - Black",
+  "price": 300,
+  "department_id": {
+    "$oid": "5eeb7d3a8802d30a8cb6225b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eeb997a55866b11b44e05dd"
+  },
+  "name": "Symphony 32 Inch Full HD Smart TV with 2 Remote Controls and wall Stand - LED320SM-Q",
+  "price": 400,
+  "department_id": {
+    "$oid": "5eeb7d3a8802d30a8cb6225b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eeb999db042794d08cad37a"
+  },
+  "name": "Jac 40 Inch LED Smart TV Black - 140N",
+  "price": 500,
+  "department_id": {
+    "$oid": "5eeb7d3a8802d30a8cb6225b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eeb99ba08875e39a0ddbae4"
+  },
+  "name": "JAC 32 Inch HD LED Smart Android TV - 132ASS",
+  "price": 600,
+  "department_id": {
+    "$oid": "5eeb7d3a8802d30a8cb6225b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eeb99d6c3abb7248456745a"
+  },
+  "name": "Skyline 32 Inch HD LED TV-22A",
+  "price": 800,
+  "department_id": {
+    "$oid": "5eeb7d3a8802d30a8cb6225b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eee0baa14a8df3cc4d038cd"
+  },
+  "name": "Lenovo Legion Y530 Gaming Laptop",
+  "price": 800,
+  "department_id": {
+    "$oid": "5eeb7eb6b1d47801a4deaa49"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eee0bc2ba149f2bc083f69a"
+  },
+  "name": "Asus S531FL-EJ020T Vivobook S15 Notebook",
+  "price": 1000,
+  "department_id": {
+    "$oid": "5eeb7eb6b1d47801a4deaa49"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eee0bd8b4a5ed3c9c041e82"
+  },
+  "name": "Lenovo 81J00093ED Yoga S730-13IWL Laptop",
+  "price": 1200,
+  "department_id": {
+    "$oid": "5eeb7eb6b1d47801a4deaa49"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eee0bf545d78f36642d5fd8"
+  },
+  "name": "Lenovo Ideapad 330 Laptop - Intel Core i7-8550U",
+  "price": 1200,
+  "department_id": {
+    "$oid": "5eeb7eb6b1d47801a4deaa49"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eee0c0e3a4c4f211c878e06"
+  },
+  "name": "Lenovo ideapad L340-15IRH Gaming Laptop",
+  "price": 1400,
+  "department_id": {
+    "$oid": "5eeb7eb6b1d47801a4deaa49"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eee0c251392884fd8469651"
+  },
+  "name": "Lenovo ideapad 330-15IKB laptop",
+  "price": 1600,
+  "department_id": {
+    "$oid": "5eeb7eb6b1d47801a4deaa49"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eee0d00672fd04c9078a7a2"
+  },
+  "name": "Apple iPhone 11 with FaceTime - 64GB, 4GB RAM, 4G LTE, Purple, Single SIM & E-SIM",
+  "price": 200,
+  "department_id": {
+    "$oid": "5eeb7ec9acbe9d2420918008"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eee0d179db69930e8ea3d15"
+  },
+  "name": "Apple Iphone XS With Facetime - 64 GB, 4G LTE, Gold, 4 GB Ram, Single Sim & E-Sim",
+  "price": 400,
+  "department_id": {
+    "$oid": "5eeb7ec9acbe9d2420918008"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eee0d2ee50afe0a60016dd2"
+  },
+  "name": "Apple iPhone 11 Pro Max with FaceTime - 256GB, 4GB RAM, 4G LTE, Gold, Single SIM & E-SIM",
+  "price": 600,
+  "department_id": {
+    "$oid": "5eeb7ec9acbe9d2420918008"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eee0d46eb4d42324c51269a"
+  },
+  "name": "Apple iPhone 11 with FaceTime - 128GB, 4GB RAM, 4G LTE, Black, Single SIM & E-SIM",
+  "price": 800,
+  "department_id": {
+    "$oid": "5eeb7ec9acbe9d2420918008"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eee0d591b2d2426840d5936"
+  },
+  "name": "Huawei P40 Pro Dual SIM Mobile - 6.58 Inch, 256 GB, 8 GB RAM, 4G LTE - Black",
+  "price": 1000,
+  "department_id": {
+    "$oid": "5eeb7ec9acbe9d2420918008"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eee0d78098e1a4a644ea2ac"
+  },
+  "name": "Apple iPhone 11 Pro with FaceTime - 64GB, 4GB RAM, 4G LTE, Gold, Single SIM & E-SIM",
+  "price": 1200,
+  "department_id": {
+    "$oid": "5eeb7ec9acbe9d2420918008"
+  },
+  "__v": 0
+}]

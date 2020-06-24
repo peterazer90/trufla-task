@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "5eeb7d3a8802d30a8cb6225b"
+  },
+  "name": "TVs",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eeb7eb6b1d47801a4deaa49"
+  },
+  "name": "PCs",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eeb7ec9acbe9d2420918008"
+  },
+  "name": "Mobiles & Tablets",
+  "__v": 0
+}]

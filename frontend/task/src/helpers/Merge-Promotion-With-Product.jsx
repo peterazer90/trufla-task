@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from 'react';
+import {useEffect, useState} from 'react';
 import {GetData} from "../api/Api-Methods";
 import {GET_PROMOTION} from "../api/Api-Urls";
 import {CouponFilter} from "./Coupon-Filter";

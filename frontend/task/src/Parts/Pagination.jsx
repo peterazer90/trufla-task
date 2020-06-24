@@ -1,6 +1,6 @@
 import React, {useContext, useState} from 'react';
 import {Badge, Col, Flex, Typography} from "../helpers/Styles";
-import {DeploymentIDContext, ProductsContext} from "../helpers/Contexts";
+import {ProductsContext} from "../helpers/Contexts";
 import {GetProductData} from "../helpers/Get-Product-Data";
 
 function Pagination() {
