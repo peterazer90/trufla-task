@@ -18,6 +18,10 @@ C:\Program Files\MongoDB\Server\4.2\bin
 - open another cmd must be listen in backend folder and type: nodemon index.js 
 - open another cmd must be listen in frontend folder and type: npm start
 
+# React components:
+- hooks (useState, useContext, useEffect, useCustomHooks)
+- styled components
+
 # Coupons:
 - 2244
 - 2255 (not active)
